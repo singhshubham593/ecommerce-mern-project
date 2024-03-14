@@ -16,5 +16,4 @@ const CategoryForm = ({ handleSubmit, value, setValue }) => {
     </>
   );
 };
-
 export default CategoryForm;
